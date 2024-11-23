@@ -1,0 +1,97 @@
+<style>
+    header h1 {
+        color: #000000;
+        font-size: 2.3em;
+        margin: .5em;
+        margin-right: 0;
+        text-align: left /* 修改此处 */
+    }
+
+    header h2 {
+        font-size: 0.95em;
+        color: #bbb;
+        font-weight: 400;
+        text-align: left /* 新增此处 */
+    }
+
+    header h2,
+    nav {
+        text-align: left /* 修改此处 */
+    }
+
+    nav {
+        width: 100%;
+        margin-top: 2em
+    }
+
+    nav ul {
+        margin-left: 0
+    }
+
+    nav ul,
+    nav ul li {
+        display: inline-block;
+        padding-left: .3em
+    }
+
+    nav ul li a {
+        font-size: 1em;
+        width: auto;
+        display: flex;
+        padding: .3em .5em;
+        color: #000000;
+        line-height: 2em;
+        border-top: 2px solid #000000;
+        justify-content: flex-start;
+    }
+
+    nav ul li a:hover {
+        font-weight: 700;
+        color: #fff;
+        background: #000000
+    }
+</style>
+<div class="description">
+    <h1>博客朋友圈</h1>
+    <h2>追风赶月莫停留 平芜尽处是春山</h2>
+    <nav>
+        <div class="bitcron_nav_container">
+            <div class="bitcron_nav">
+                <div class="mixed_site_nav_wrap site_nav_wrap">
+                    <ul class="mixed_site_nav site_nav sm sm-base">
+                        <li><a href="https://bloggfjz.lqbby.com" class="selected active current nav__item">首页</a>
+                        </li>
+                        <li><a href="https://bloggfjz.lqbby.com/links" class="nav__item">星链</a></li>
+                    </ul>
+                    <div class="clear clear_nav_inline_end"></div>
+                </div>
+            </div>
+            <div class="clear clear_nav_end"></div>
+        </div>
+    </nav>
+</div>
+<div id="friend-circle-lite-root"></div>
+<script>
+    if (typeof UserConfig === 'undefined') {
+        var UserConfig = {
+            // 填写你的fc Lite地址
+            private_api_url: 'https://fc.liushen.fun/',
+            // 点击加载更多时，一次最多加载几篇文章，默认20
+            page_turning_number: 20,
+            // 头像加载失败时，默认头像地址
+            error_img: 'https://i.p-i.vip/30/20240815-66bced9226a36.webp',
+        }
+    }
+</script>
+<style>
+    body {
+  font-family: 'Microsoft YaHei', sans-serif;
+  font-weight: bold;
+}
+    body {
+      background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('https://bpic.588ku.com/back_pic/06/13/23/41627222ade2a5c.jpg');
+    }
+  </style>
+  <h5>朋友圈的博主和文章数据来源于 LiuShen's Blog</h3>
+<link rel="stylesheet" href="fclite.min.css">
+<script src="fclite.min.js"></script>
