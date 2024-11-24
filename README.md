@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://bloggfjz.lqbby.com/uploads/2024/09/icon.png" width="200" alt="fclite">
 
-[前端展示](https://bloggfjz.lqbby.com) | [插件安装详细文档(正在写，写完以后放链接)]()
+[前端展示](https://bloggfjz.lqbby.com/fcircle) | [插件安装详细文档(正在写，写完以后放链接)]()
   </div>
 
 # Friend-Circle-Lite
