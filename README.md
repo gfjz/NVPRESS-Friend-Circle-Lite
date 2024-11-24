@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://bloggfjz.lqbby.com/uploads/2024/09/icon.png" width="200" alt="fclite">
+  </div>
 
 [前端展示](https://bloggfjz.lqbby.com) | [插件安装详细文档(正在写，写完以后放链接)]()
 
@@ -10,9 +11,13 @@
 ## 展示页面
 
 * [高峰君主の友链朋友圈](https://bloggfjz.lqbby.com/fcircle/)
+
 * [清羽飞扬の友链朋友圈](https://blog.liushen.fun/fcircle/)
+
 * [❖星港◎Star☆ 的友链朋友圈](https://blog.starsharbor.com/fcircle/)
+
 * [梦爱吃鱼的友链朋友圈](https://blog.bsgun.cn/fcircle/)
+
 * 欢迎在issue中[提交](https://github.com/gfjz/NVPRESS-Friend-Circle-Lite/issues)以展示你独特的设计！
 
 ## 功能概览
